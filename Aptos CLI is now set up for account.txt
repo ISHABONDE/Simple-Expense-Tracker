@@ -1,0 +1,20 @@
+Aptos CLI is now set up for account 0x86b16eda4b56018b4bf1102aa037633a7afd1f8ab24cacdc415ceb11dc492d53 as profile default!
+
+yes
+Transaction submitted: https://explorer.aptoslabs.com/txn/0x0028050254222d25f0084ceb803ad7f3c0fa083b83ccfda7c52cc0e2aa6861b9?network=devnet
+{
+  "Result": {
+    "transaction_hash": "0x0028050254222d25f0084ceb803ad7f3c0fa083b83ccfda7c52cc0e2aa6861b9",
+    "gas_used": 1175,
+    "gas_unit_price": 100,
+    "sender": "86b16eda4b56018b4bf1102aa037633a7afd1f8ab24cacdc415ceb11dc492d53",
+    "sequence_number": 0,
+    "replay_protector": {
+      "SequenceNumber": 0
+    },
+    "success": true,
+    "timestamp_us": 1755079458718153,
+    "version": 133195945,
+    "vm_status": "Executed successfully"
+  }
+}
