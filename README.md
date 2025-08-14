@@ -24,7 +24,9 @@ By leveraging blockchain technology, every expense is **immutable, auditable, an
 
 ## 📜 Contract Details
 - **Module Name**: `MyModule::GroupExpenseTracker`
-- **Deployed Address**: `0xYOUR_CONTRACT_ADDRESS_HERE`  
+- **Deployed Address**: `0x86b16eda4b56018b4bf1102aa037633a7afd1f8ab24cacdc415ceb11dc492d53`
+- <img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/9e97f6fa-5166-4f40-93d0-65713efa9169" />
+  
 - **Functions**:
   1. `create_group(owner: &signer)` → Initializes a new group expense tracker for the owner.
   2. `add_expense(member: &signer, group_owner: address, amount: u64)` → Adds an expense and transfers funds from the member to the group.
